@@ -2,6 +2,7 @@
 schema: default
 title: 'Global Snow and Ice Cover (1980–1987): An Extended GMASI Dataset'
 organization: University of Arizona
+doi: https://doi.org/10.25422/azu.data.28012532.v1
 notes: |
     This dataset provides globally continuous, daily snow and ice cover information at a high spatial resolution 
     (0.1° latitude/longitude grid) for the period from January 1, 1980, to June 30, 1987. It extends the Global 
@@ -21,7 +22,8 @@ notes: |
 
 resources:
   - name: Version 1
-    url: 'https://doi.org/10.25422/azu.data.28012532.v1'    
+    url: https://arizona.figshare.com/articles/dataset/_b_Global_Snow_and_Ice_Cover_1980_1987_An_Extended_GMASI_Dataset_b_/28012532/1
+    doi: 10.25422/azu.data.28012532.v1
 
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
