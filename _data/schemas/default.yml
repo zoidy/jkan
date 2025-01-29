@@ -23,6 +23,9 @@ dataset_fields:
   - field_name: maintainer_email
     label: Maintainer Email
     datajson: contactPoint.hasEmail
+  - field_name: doi
+    label: DOI
+    datajson: identifier
 
 resource_fields:
   - field_name: name
@@ -31,6 +34,9 @@ resource_fields:
   - field_name: url
     label: URL
     datajson: distribution.downloadURL
+  - field_name: doi
+    label: DOI
+    datajson: description
   - field_name: format
     label: Format
     datajson: distribution.format
