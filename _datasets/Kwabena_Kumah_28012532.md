@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Global Snow and Ice Cover (1980–1987): An Extended GMASI Dataset
+title: 'Global Snow and Ice Cover (1980–1987): An Extended GMASI Dataset'
 organization: University of Arizona
 notes: |
 	This dataset provides globally continuous, daily snow and ice cover information at a high spatial resolution 
