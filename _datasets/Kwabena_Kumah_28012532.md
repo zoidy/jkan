@@ -18,7 +18,6 @@ notes: |
     Forest algorithm, applied to ERA5 reanalysis data. This dataset is designed to support diverse applications, 
     including climate studies, hydrological modeling, and long-term precipitation analyses.
 
-    ---
     
     *For inquiries regarding the contents of this dataset, please contact the Corresponding Author listed in the 
     README.txt file. Administrative inquiries (e.g., removal requests, trouble downloading, etc.) can be directed 
