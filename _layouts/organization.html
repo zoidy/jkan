@@ -28,7 +28,7 @@ layout: default
            {% for dataset in datasets %}
             <dataset>
               <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
-              {{ dataset.notes | markdownify }}
+              xxx{{ dataset.notes | markdownify | truncate: 300 }}
             </dataset>
            {% endfor %}
           </div>
