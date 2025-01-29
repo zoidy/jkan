@@ -19,10 +19,7 @@ notes: |
 
 resources:
   - name: Version 1
-    url: 'https://doi.org/10.25422/azu.data.28012532.v1'
-    format: 
-		- zip
-		- nc
+    url: 'https://doi.org/10.25422/azu.data.28012532.v1'    
 
 license: Creative Commons Attribution (CC By 4.0)
 category:
