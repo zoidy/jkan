@@ -26,6 +26,8 @@ dataset_fields:
   - field_name: doi
     label: DOI
     datajson: identifier
+  - field_name: citation
+    label: Citation
 
 resource_fields:
   - field_name: name
