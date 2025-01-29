@@ -2,7 +2,7 @@
 schema: default
 title: 'Global Snow and Ice Cover (1980–1987): An Extended GMASI Dataset'
 organization: University of Arizona
-notes:|
+notes: |
     This dataset provides globally continuous, daily snow and ice cover information at a high spatial resolution 
     (0.1° latitude/longitude grid) for the period from January 1, 1980, to June 30, 1987. It extends the Global 
     Automated Snow and Ice Mapping System (GMASI) dataset, which begins in July 1987. For access to GMASI snow 
