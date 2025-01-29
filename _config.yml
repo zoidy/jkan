@@ -6,10 +6,10 @@ hero_image: /img/homepage-hero.jpg
 strict_front_matter: true
 
 # Site theme
-jkan_theme: Default
+jkan_theme: journal
 
 # Dataset schema
-schema: journal
+schema: default
 
 # Nav bar
 navigation:
